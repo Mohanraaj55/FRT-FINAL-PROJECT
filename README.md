@@ -30,19 +30,17 @@ This is a web based application developed for fashon related based website in in
 ![B STYLE - Google Chrome 16-11-2022 12_51_46](https://user-images.githubusercontent.com/110341178/202113975-95bddeff-9ab4-4cbf-838a-bf1db586e20c.png)
 ![B STYLE - Google Chrome 16-11-2022 12_51_22](https://user-images.githubusercontent.com/110341178/202113995-00f2fbdb-2905-4ead-aa81-98c1ae0fdfd7.png)
 
-### About Us -
+### About Us -Our web sit is Fashon related,we brought top brands and comfortable cloth,You can find all products here.
 
 
 
-### Services -
+### Services -Men,Women,Products,Fashonchat
 
 
 
-### Contact us -
+### Contact us -pmohanraaj555@gmail.com,
+               7013670823
 
-
-
-### fashon bot
 
 
 
