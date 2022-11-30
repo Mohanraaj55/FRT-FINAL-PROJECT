@@ -7,7 +7,7 @@ This is a web based application developed for fashon related based website in in
 
 **Microsoft Azure Static Web Apps Link**- https://proud-glacier-04dd9b200.2.azurestaticapps.net
 
-**Project Link** - 
+**Project Link** - https://mohanraaj55.github.io/FRT-FINAL-PROJECT/
 
 **project demo video link** - 
 
@@ -24,7 +24,14 @@ This is a web based application developed for fashon related based website in in
 - Has collection of many web pages including Home, Women, Men, Products,Fashonbot,Sign in,Contact, Fashon topics and Fashon related information etc.
 - User can know about fashon information through this website.
 
-## Screenshots
+### Screenshots
+
+## Static Web Apps
+![BStyle - Microsoft Azure - Google Chrome 30-11-2022 13_19_01](https://user-images.githubusercontent.com/110341178/204737743-22ceed4c-6a11-4cad-8fea-6ef07ecb2dad.png)
+
+## Health Bot
+![BStyle - Microsoft Azure - Google Chrome 30-11-2022 13_19_01](https://user-images.githubusercontent.com/110341178/204738138-cf1dc0eb-4618-4a08-beef-0d1fe0a4826d.png)
+
 ![B STYLE - Google Chrome 16-11-2022 12_50_13](https://user-images.githubusercontent.com/110341178/202113784-bbf9d307-1bdc-4ff4-a4f6-d4b0d967bb4b.png)
 ![B STYLE - Google Chrome 16-11-2022 12_50_49](https://user-images.githubusercontent.com/110341178/202113880-0d0e4836-0fbf-4864-9c36-718a0c9f6281.png)
 ![B STYLE - Google Chrome 16-11-2022 12_51_00](https://user-images.githubusercontent.com/110341178/202113920-30093d76-3055-4163-962f-7b4826127d12.png)
