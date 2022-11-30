@@ -24,7 +24,7 @@ This is a web based application developed for fashon related based website in in
 - Has collection of many web pages including Home, Women, Men, Products,Fashonbot,Sign in,Contact, Fashon topics and Fashon related information etc.
 - User can know about fashon information through this website.
 
-### Screenshots
+# Screenshots
 
 ## Static Web Apps
 ![BStyle - Microsoft Azure - Google Chrome 30-11-2022 13_19_01](https://user-images.githubusercontent.com/110341178/204737743-22ceed4c-6a11-4cad-8fea-6ef07ecb2dad.png)
