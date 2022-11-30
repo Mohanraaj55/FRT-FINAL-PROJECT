@@ -30,7 +30,7 @@ This is a web based application developed for fashon related based website in in
 ![BStyle - Microsoft Azure - Google Chrome 30-11-2022 13_19_01](https://user-images.githubusercontent.com/110341178/204737743-22ceed4c-6a11-4cad-8fea-6ef07ecb2dad.png)
 
 ## Health Bot
-![BStyle - Microsoft Azure - Google Chrome 30-11-2022 13_19_01](https://user-images.githubusercontent.com/110341178/204738138-cf1dc0eb-4618-4a08-beef-0d1fe0a4826d.png)
+![BStyle - Microsoft Azure - Google Chrome 30-11-2022 13_21_11](https://user-images.githubusercontent.com/110341178/204738817-ea190be2-65f3-484f-b363-cc92f77d928d.png)
 
 ![B STYLE - Google Chrome 16-11-2022 12_50_13](https://user-images.githubusercontent.com/110341178/202113784-bbf9d307-1bdc-4ff4-a4f6-d4b0d967bb4b.png)
 ![B STYLE - Google Chrome 16-11-2022 12_50_49](https://user-images.githubusercontent.com/110341178/202113880-0d0e4836-0fbf-4864-9c36-718a0c9f6281.png)
