@@ -42,16 +42,10 @@ This is a web based application developed for fashon related based website in in
 ### About Us -Our web sit is Fashon related,we brought top brands and comfortable cloth,You can find all products here.
 
 
-
 ### Services -Men,Women,Products,Fashonchat
 
 
-
 ### Contact us -pmohanraaj555@gmail.com,
-               7013670823
-
-
-
 
 
 ## Tech Stack 💻
