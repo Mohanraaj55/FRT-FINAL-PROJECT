@@ -9,7 +9,7 @@ This is a web based application developed for fashon related based website in in
 
 **Project Link** - https://mohanraaj55.github.io/FRT-FINAL-PROJECT/
 
-**project demo video link** - 
+**project demo video link** - https://www.youtube.com/watch?v=mSqnmOQ7Tlc
 
 ## Azure technologies used for Project
 
