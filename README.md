@@ -14,7 +14,7 @@ This is a web based application developed for fashon related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- Azure bot
+- Azure Health bot
 
 ## Features and Functionalities 😃
 
